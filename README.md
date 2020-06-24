@@ -14,3 +14,4 @@ Client Application - The machine that needs to be authenticated.
 Authorization Server - The server issuing access tokens to the client after successfully authenticating the resource owner and obtaining authorization
 Resource Server - The resource server is the OAuth 2.0 term for your API server. The resource server handles authenticated requests after the application has obtained an access token.
 
+https://www.javainuse.com/spring/springboot-oauth2-password-grant#:~:text=Define%20the%20Spring%20Boot%20Main%20Application.,before%20calling%20the%20Resource%20Server.
